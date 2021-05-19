@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/weblab5.github.io/static/js/main.275adee5.chunk.js",
-    "main.js.map": "/weblab5.github.io/static/js/main.275adee5.chunk.js.map",
+    "main.js": "/weblab5.github.io/static/js/main.c6a7d1ca.chunk.js",
+    "main.js.map": "/weblab5.github.io/static/js/main.c6a7d1ca.chunk.js.map",
     "runtime-main.js": "/weblab5.github.io/static/js/runtime-main.4d4c2d20.js",
     "runtime-main.js.map": "/weblab5.github.io/static/js/runtime-main.4d4c2d20.js.map",
     "static/js/2.986c88ff.chunk.js": "/weblab5.github.io/static/js/2.986c88ff.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.4d4c2d20.js",
     "static/js/2.986c88ff.chunk.js",
-    "static/js/main.275adee5.chunk.js"
+    "static/js/main.c6a7d1ca.chunk.js"
   ]
 }
